@@ -1,0 +1,44 @@
+.contact {
+    background-color: rgba(41, 130, 146, 0.3);
+    margin:0;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+
+.basic-info {
+    background-color: rgba(41, 130, 146, 0.3);
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+
+.contributor, .developer, .learner {
+    background-color: rgba(188, 95, 224, 0.3);
+    margin: 0;
+    padding: 0;
+   
+}
+
+.hungry {
+    color: red;
+}
+
+.skillset {
+    font-style: italic;
+}
+
+/*remove extra space for lists:*/
+li 
+{ 
+    display:block; 
+    float:left; 
+    margin:0;
+    padding:0;
+    
+}
+
+.CPP-primer {
+    border: 1px;
+    border-radius: 50%;
+}
